@@ -7,4 +7,4 @@
 ## Conclusion
     Thank You!!
 	For any queries contact me...
-### Copyrights@2020 Mee!!
+### Copyrights@2020 gitpractise
