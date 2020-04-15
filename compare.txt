@@ -1,0 +1,4 @@
+hello lets compare
+files
+using
+p4merge tool
