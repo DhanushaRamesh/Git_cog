@@ -1,10 +1,10 @@
 # Static Sample Web Page
-   Welcome To my page!!!
+    Welcome To my page!!!
 ## Introduction
-       This is a sample web page with html and css contents
+    This is a sample web page with html and css contents
 ## Contents
-   Learning About git!!
+    Learning About git!!
 ## Conclusion
-       Thank You!!!!
-### Copyrights
-    @2020 Mee!!
+    Thank You!!
+	For any queries contact me...
+### Copyrights@2020 gitpractise
