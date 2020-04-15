@@ -2,3 +2,6 @@ hello lets compare
 files
 using
 p4merge tool
+
+in staging directory
+compare working directory and staging directory
